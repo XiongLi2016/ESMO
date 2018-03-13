@@ -1,0 +1,1 @@
+MeanSize=  3.00 	 ac_inter=100.00  	 ac_inter2=  0.00  	 time=521.17 	 
